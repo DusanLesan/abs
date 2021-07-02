@@ -1,10 +1,7 @@
 #TAG,NAME IN REPO (or git url),PURPOSE (should be a verb phrase to sound right while installing)
 ,alacritty,is GPU-accelerated terminal emulator
-,android-file-transfer,is Android MTP client with minimalistic UI
 ,arandr,is a UI for screen adjustment.
-,code,is Microsoft’s IDE
 ,cronie,is task scheduler
-,deepin-gtk-theme,is gtk+ theme
 ,dnsmasq,is required for making wifi hotspots
 ,dosfstools,allows your computer to access dos-like filesystems.
 ,dunst,is a suckless notification system.
@@ -22,7 +19,6 @@
 ,inetutils,is collection of common network programs providing telnet
 ,isync,does IMAP synchronization
 ,libnotify,allows desktop notifications.
-,libreoffice-still,is office suite
 ,lxsession,X11 session manager
 ,lynx,is a text browser
 ,maim,can take quick screenshots at your request.
@@ -45,7 +41,6 @@
 ,pulsemixer,is an audio controler.
 ,sshfs,is ssh file transfer protocol client
 ,steam,is Valve's digital software delivery system
-,transmission-gtk,is a feature rich cross platform Transmission BitTorrent client
 ,ttf-jetbrains-mono,is typeface for developers by JetBrains
 ,ttf-linux-libertine,provides the sans and serif fonts for LARBS.
 ,ttf-nerd-fonts-symbols,is collection of extra glyphs from popular 'iconic fonts'
@@ -68,20 +63,8 @@
 ,zsh-completions,provides additional completion definitions for Zsh
 ,zsh-history-substring-search,alows serching history with with up and down keys
 ,zsh-syntax-highlighting,provides syntax highlighting for the zsh
-A,brave-bin,is chromium based web browser
-A,devour,provides swallowing feature for terminal emulators
-A,dragon-drag-and-drop,is simple drag-and-drop source/sink for X
-A,insomnia-bin,is API Client and Design Platform for GraphQL and REST
 A,lf,is a terminal file manager
 A,ly,is TUI display manager
-A,mattermost-desktop-bin,is Mattermost desktop client
-A,qt5-styleplugins,allows theming of QT5 apps
-A,skypeforlinux-stable-bin,is Skype client
-A,slack-desktop,is Slack Desktop client
-A,smartgit,is git client with Hg and SVN support.
-A,timeshift,is a system restore utility
-A,x2x-git,"allows the keyboard, mouse on one X display to control another X display"
-A,zoom,is spooky video conferencing service you should not use
 G,https://github.com/DusanLesan/dmenu.git,runs commands and provides a UI for selection.
 G,https://github.com/DusanLesan/dwm.git,is the window manager.
 G,https://github.com/DusanLesan/dwmblocks.git,serves as the modular status bar.
